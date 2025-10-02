@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! I'm **Jlo**, a highly motivated aspiring **Frontend Web Developer** from <b>New Taipei City, Taiwan</b>, actively seeking my first role.</p>
 
-📫 How to reach me: | 📧 Email: ts01545387@gmail.com 
+📫 How to reach me: 📧 Email: ts01545387@gmail.com 
 
 ### 🚀 About Me
 I'm a passionate and driven developer currently diving deep into the world of **frontend technologies**. I'm actively focused on mastering all facets of the client-side experience, including:
@@ -19,7 +19,7 @@ My commitment is to write clean, elegant, and maintainable code that stands the 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [JIOVOLLEY](https://jlo-1992.github.io/jiovolley/) | Disaster shelter search bot using Taipei City Open Data & Haversine formula | Vue.js, Vuetify, Node.js |
-| [Volleyball Passing Game](https://jlo-1992.github.io/passing-game/volleyball.html) | Portfolio & e-commerce site for illustration works | jQuery, JavaScript, CSS, HTML |
+| [Volleyball Passing Game](https://jlo-1992.github.io/passing-game/) | Portfolio & e-commerce site for illustration works | jQuery, JavaScript, CSS, HTML |
 | [TimeTune-Station](https://jlo-1992.github.io/-TimeTune-Station/) | Portfolio & e-commerce site for illustration works | JavaScript, CSS, HTML |
 | [The-I-SOS-Bot](https://github.com/jlo-1992/The-I-SOS-Bot) | Portfolio & e-commerce site for illustration works | Node.js, Express, LINE Messaging API |
 
