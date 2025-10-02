@@ -10,7 +10,6 @@ I'm a passionate and driven developer currently diving deep into the world of <b
 
 My commitment is to write clean, elegant, and maintainable code that stands the test of time.
 I approach every project and challenge with an open mind, eager to learn new tools and embrace the next big thing in web development. <br>
- <br>
 <h3><b>Let's build something great!</b></h3>
 
 <h3>Things I code with</h3>
