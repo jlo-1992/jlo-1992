@@ -2,7 +2,20 @@
 
 <p>Welcome to my page! I'm **Jlo**, a highly motivated aspiring **Frontend Web Developer** from <b>New Taipei City, Taiwan</b>, actively seeking my first role.</p>
 
+
+
+
 ### 🚀 About Me
+I'm a passionate and driven developer currently diving deep into the world of **frontend technologies**. I'm actively focused on mastering all facets of the client-side experience, including:
+
+- Crafting meticulous **layout and responsive design**.
+- Implementing sophisticated **animations** (GSAP) and dynamic user interfaces.
+- Dedicated to maximizing **frontend performance** and delivering lightning-fast web experiences.
+
+My commitment is to write clean, elegant, and maintainable code that stands the test of time. I approach every project and challenge with an open mind, eager to learn new tools and embrace the next big thing in web development.
+
+### **Let's build something great!**
+
 I'm a passionate and driven developer currently diving deep into the world of <b>frontend technologies</b>. I'm actively focused on mastering all facets of the client-side experience, including:
 - Crafting meticulous layout and responsive design.
 - Implementing sophisticated animations and dynamic user interfaces.
