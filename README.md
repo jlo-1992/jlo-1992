@@ -14,6 +14,18 @@ I approach every project and challenge with an open mind, eager to learn new too
 </p>  
 <h3><b>Let's build something great!</b></h3>
 
+## 🌟 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [JIOVOLLEY](https://jlo-1992.github.io/jiovolley/) | Disaster shelter search bot using Taipei City Open Data & Haversine formula | Vue.js, Vuetify, Node.js |
+| [Volleyball Passing Game](https://jlo-1992.github.io/passing-game/volleyball.html) | Portfolio & e-commerce site for illustration works | jQuery, JavaScript, CSS, HTML |
+| [TimeTune-Station](https://jlo-1992.github.io/-TimeTune-Station/) | Portfolio & e-commerce site for illustration works | JavaScript, CSS, HTML |
+| [The-I-SOS-Bot](https://github.com/jlo-1992/The-I-SOS-Bot) | Portfolio & e-commerce site for illustration works | Node.js, Express, LINE Messaging API |
+
+## 📊 GitHub Stats
+![Jlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlo-1992&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlo-1992&layout=compact&theme=tokyonight)
+
 ### Things I code with
 ### 🎨 Frontend
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -58,17 +70,7 @@ I approach every project and challenge with an open mind, eager to learn new too
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## 🌟 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [JIOVOLLEY](https://jlo-1992.github.io/jiovolley/) | Disaster shelter search bot using Taipei City Open Data & Haversine formula | Vue.js, Vuetify, Node.js |
-| [Volleyball Passing Game](https://jlo-1992.github.io/passing-game/volleyball.html) | Portfolio & e-commerce site for illustration works | jQuery, JavaScript, CSS, HTML |
-| [TimeTune-Station](https://jlo-1992.github.io/-TimeTune-Station/) | Portfolio & e-commerce site for illustration works | JavaScript, CSS, HTML |
-| [The-I-SOS-Bot](https://github.com/jlo-1992/The-I-SOS-Bot) | Portfolio & e-commerce site for illustration works | Node.js, Express, LINE Messaging API |
 
-## 📊 GitHub Stats
-![Jlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlo-1992&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlo-1992&layout=compact&theme=tokyonight)
 <!--
 **jlo-1992/jlo-1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
