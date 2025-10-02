@@ -2,12 +2,12 @@
 
 <p>Welcome to my page! I'm Jlo, frontend apprentice 🧪 from <b>New Taipei City, Taiwan</b>. </p>
 
-<h3>🚀 About Me</h3>
+🚀 About Me
 <p>
 I'm a passionate and driven developer currently diving deep into the world of <b>frontend technologies</b>. I'm actively focused on mastering all facets of the client-side experience, including:
 - Crafting meticulous layout and responsive design.
 - Implementing sophisticated animations and dynamic user interfaces.
-- Dedicated to maximizing frontend performance and delivering lightning-fast web experiences. <br>
+- Dedicated to maximizing frontend performance and delivering lightning-fast web experiences.
 </p>
 <p>
 My commitment is to write clean, elegant, and maintainable code that stands the test of time.
@@ -16,7 +16,6 @@ I approach every project and challenge with an open mind, eager to learn new too
 <h3><b>Let's build something great!</b></h3>
 
 <h3>Things I code with</h3>
-
 ### 🎨 Frontend
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
