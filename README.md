@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you! </h1>
 👋 Hi, I'm Jlo — an aspiring Frontend Developer from Taiwan, passionate about building interactive and user-friendly web experiences.
 
-📫 How to reach me: 📧 Email: ts01545387@gmail.com 
+📫 How to reach me: 📧 Email: [Email](mailto:ts01545387@gmail.com)
 
 ### 🚀 About Me
 I'm a passionate and driven developer currently diving deep into the world of **frontend technologies**. I'm actively focused on mastering all facets of the client-side experience, including:
