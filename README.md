@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! I'm **Jlo**, a highly motivated aspiring **Frontend Web Developer** from <b>New Taipei City, Taiwan</b>, actively seeking my first role.</p>
 
-📫 How to reach me: | 📧 Email: [Your Email] 
+📫 How to reach me: | 📧 Email: ts01545387@gmail.com 
 
 ### 🚀 About Me
 I'm a passionate and driven developer currently diving deep into the world of **frontend technologies**. I'm actively focused on mastering all facets of the client-side experience, including:
