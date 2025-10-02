@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you! </h1>
 
-<p>Welcome to my page! </br> I'm Jlo, Frontend apprentice 🧪 from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>New Taipei City, Taiwan</b> </p>
+<p>Welcome to my page! </br> I'm Jlo, frontend apprentice 🧪 from <img src="[https://cdn-icons-png.flaticon.com/512/197/197560.png](https://github.com/user-attachments/assets/ae3ba8b9-2e79-4ad7-a883-f7e1450b8968)" width="13"/> 
+ <b>New Taipei City, Taiwan</b> </p>
 <h3>Things I code with</h3>
 
 <!--
