@@ -3,13 +3,16 @@
 <p>Welcome to my page! I'm Jlo, frontend apprentice 🧪 from <b>New Taipei City, Taiwan</b>. </p>
 
 <h3>🚀 About Me</h3>
+<p>
 I'm a passionate and driven developer currently diving deep into the world of <b>frontend technologies</b>. I'm actively focused on mastering all facets of the client-side experience, including:
 - Crafting meticulous layout and responsive design.
 - Implementing sophisticated animations and dynamic user interfaces.
 - Dedicated to maximizing frontend performance and delivering lightning-fast web experiences. <br>
-
+</p>
+<p>
 My commitment is to write clean, elegant, and maintainable code that stands the test of time.
-I approach every project and challenge with an open mind, eager to learn new tools and embrace the next big thing in web development. <br>
+I approach every project and challenge with an open mind, eager to learn new tools and embrace the next big thing in web development.
+</p>  
 <h3><b>Let's build something great!</b></h3>
 
 <h3>Things I code with</h3>
