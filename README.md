@@ -18,9 +18,9 @@ My commitment is to write clean, elegant, and maintainable code that stands the 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [JIOVOLLEY](https://jlo-1992.github.io/jiovolley/) | A collaborative volleyball meetup platform where users can co-edit court information, post invitations for games, and register to play. | Vue.js, Vuetify, Node.js |
+| [The-I-SOS-Bot](https://github.com/jlo-1992/The-I-SOS-Bot) | A social survival bot providing real-time topic ideas or humorous responses to help users navigate social situations effortlessly without needing to be overly talkative. | Node.js, Express, LINE Messaging API |
 | [Volleyball Passing Game](https://jlo-1992.github.io/passing-game/) | An interactive game built to test reaction time. Users must successfully "receive" balls while avoiding "mines" within a time limit to achieve the highest score. | jQuery, JavaScript, CSS, HTML |
 | [TimeTune-Station](https://jlo-1992.github.io/-TimeTune-Station/) | A minimalist music player and clock interface that prominently displays the current time, date, and day of the week for an ambient user experience. | JavaScript, CSS, HTML |
-| [The-I-SOS-Bot](https://github.com/jlo-1992/The-I-SOS-Bot) | A social survival bot providing real-time topic ideas or humorous responses to help users navigate social situations effortlessly without needing to be overly talkative. | Node.js, Express, LINE Messaging API |
 
 ## 📊 GitHub Stats
 ![Jlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlo-1992&show_icons=true&theme=tokyonight)
