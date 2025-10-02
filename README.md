@@ -63,8 +63,8 @@ I approach every project and challenge with an open mind, eager to learn new too
 </h1>
 
 ## 📊 GitHub Stats
-![Ting's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobkuo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobkuo&layout=compact&theme=tokyonight)
+![Jlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlo-1992&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlo-1992&layout=compact&theme=tokyonight)
 <!--
 **jlo-1992/jlo-1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
