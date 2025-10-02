@@ -1,4 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Jlo. Nice to see you. </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you! </h1>
+
+<p>Welcome to my page! </br> I'm Jlo, Frontend apprentice 🧪 from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>New Taipei City, Taiwan</b> </p>
+<h3>Things I code with</h3>
 
 <!--
 **jlo-1992/jlo-1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
