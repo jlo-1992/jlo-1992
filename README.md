@@ -14,7 +14,7 @@ I approach every project and challenge with an open mind, eager to learn new too
 </p>  
 <h3><b>Let's build something great!</b></h3>
 
-<h3>Things I code with</h3>
+### Things I code with
 ### 🎨 Frontend
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
