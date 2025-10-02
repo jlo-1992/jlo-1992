@@ -58,9 +58,13 @@ I approach every project and challenge with an open mind, eager to learn new too
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<h1>
-  My Latest Works
-</h1>
+## 🌟 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [JIOVOLLEY](https://jlo-1992.github.io/jiovolley/) | Disaster shelter search bot using Taipei City Open Data & Haversine formula | Vue.js, Vuetify, Node.js |
+| [Volleyball Passing Game](https://jlo-1992.github.io/passing-game/volleyball.html) | Portfolio & e-commerce site for illustration works | jQuery, JavaScript, CSS, HTML |
+| [TimeTune-Station](https://jlo-1992.github.io/-TimeTune-Station/) | Portfolio & e-commerce site for illustration works | JavaScript, CSS, HTML |
+| [The-I-SOS-Bot](https://github.com/jlo-1992/The-I-SOS-Bot) | Portfolio & e-commerce site for illustration works | Node.js, Express, LINE Messaging API |
 
 ## 📊 GitHub Stats
 ![Jlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlo-1992&show_icons=true&theme=tokyonight)
