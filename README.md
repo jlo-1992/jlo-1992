@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! I'm Jlo, frontend apprentice 🧪 from <b>New Taipei City, Taiwan</b>. </p>
 
-🚀 About Me
+###🚀 About Me
 <p>
 I'm a passionate and driven developer currently diving deep into the world of <b>frontend technologies</b>. I'm actively focused on mastering all facets of the client-side experience, including:
 - Crafting meticulous layout and responsive design.
