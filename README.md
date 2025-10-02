@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you! </h1>
 
-<p>Welcome to my page! I'm Jlo, frontend apprentice 🧪 from <b>New Taipei City, Taiwan</b>. </p>
+<p>Welcome to my page! I'm **Jlo**, a highly motivated aspiring **Frontend Web Developer** from <b>New Taipei City, Taiwan</b>, actively seeking my first role.</p>
 
 ### 🚀 About Me
 I'm a passionate and driven developer currently diving deep into the world of <b>frontend technologies</b>. I'm actively focused on mastering all facets of the client-side experience, including:
